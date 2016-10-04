@@ -4282,7 +4282,7 @@
       </profiles>
       <links/>
     </entry>
-    <entry id="7070c1a2-0136-1c55-7e2b-152d0e3f6b50" name="Enginseer Auxillia" points="25.0" categoryId="456c6974657323232344415441232323" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="HH2: Massacre" page="271">
+    <entry id="7070c1a2-0136-1c55-7e2b-152d0e3f6b50" name="Enginseer Auxillia" points="25.0" categoryId="456c6974657323232344415441232323" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="Crusade Imperialis" page="31">
       <entries>
         <entry id="5fa98f9d-1667-5f77-9a1d-e07af2f4e0f4" name="Adept" points="20.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
@@ -4540,7 +4540,7 @@
       <profiles/>
       <links/>
     </entry>
-    <entry id="de368015-fb7a-38d2-6a2d-cc486f9105cf" name="Household Retinue Squad" points="115.0" categoryId="456c6974657323232344415441232323" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="HH4: Conquest" page="267">
+    <entry id="de368015-fb7a-38d2-6a2d-cc486f9105cf" name="Household Retinue Squad" points="115.0" categoryId="456c6974657323232344415441232323" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="Crusade Imperialis" page="34">
       <entries>
         <entry id="232e5a37-b137-3809-71c4-c63fdab5e4de" name="Prime" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
@@ -4911,7 +4911,7 @@
         </link>
       </links>
     </entry>
-    <entry id="706db83f-7065-0d8a-c141-1406c1032a9d" name="Legate Commander" points="45.0" categoryId="485123232344415441232323" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="HH4: Conquest" page="256">
+    <entry id="706db83f-7065-0d8a-c141-1406c1032a9d" name="Legate Commander" points="45.0" categoryId="485123232344415441232323" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="Crusade Imperialis" page="24">
       <entries>
         <entry id="8004-0b6a-fdc7-2475" name="Relics of the Dark Age of Technology" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
@@ -4935,7 +4935,7 @@
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="ec3b1da3-40f2-fffc-bc2c-f67f067e968a" profileTypeId="556e697423232344415441232323" name="Lord Marshal" hidden="false" book="HH4: Conquest" page="256">
+                <profile id="ec3b1da3-40f2-fffc-bc2c-f67f067e968a" profileTypeId="556e697423232344415441232323" name="Lord Marshal" hidden="false" book="Crusade Imperialis" page="24">
                   <characteristics>
                     <characteristic characteristicId="556e6974205479706523232344415441232323" name="Unit Type" value="Infantry (Character)"/>
                     <characteristic characteristicId="575323232344415441232323" name="WS" value="4"/>
@@ -5394,7 +5394,7 @@
       <modifiers/>
       <rules/>
       <profiles>
-        <profile id="da5da6e6-ff47-281a-e046-4dc16bc88b6d" profileTypeId="556e697423232344415441232323" name="Legate Commander" hidden="false" book="HH4: Conquest" page="256">
+        <profile id="da5da6e6-ff47-281a-e046-4dc16bc88b6d" profileTypeId="556e697423232344415441232323" name="Legate Commander" hidden="false" book="Crusade Imperialis" page="24">
           <characteristics>
             <characteristic characteristicId="556e6974205479706523232344415441232323" name="Unit Type" value="Infantry (Character)"/>
             <characteristic characteristicId="575323232344415441232323" name="WS" value="4"/>
@@ -6802,7 +6802,7 @@ Use at the start of the controlling player’s turn. Until the beginning of thei
               </characteristics>
               <modifiers/>
             </profile>
-            <profile id="2d59-ba5f-ac65-9707" profileTypeId="57617267656172204974656d23232344415441232323" name="Medi-pack" hidden="false" book="HH4: Conquest" page="260">
+            <profile id="2d59-ba5f-ac65-9707" profileTypeId="57617267656172204974656d23232344415441232323" name="Medi-pack" hidden="false" book="Crusade Imperialis" page="28">
               <characteristics>
                 <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="Grants the bearer and attached unit Feel No Pain (5+). "/>
               </characteristics>
@@ -6946,7 +6946,7 @@ Use at the start of the controlling player’s turn. Until the beginning of thei
                 </modifier>
               </modifiers>
               <rules>
-                <rule id="c4a79551-22fc-94a6-4007-f59994c7d44e" name="Concealment" hidden="false" book="HH:LACAL" page="44">
+                <rule id="c4a79551-22fc-94a6-4007-f59994c7d44e" name="Concealment" hidden="false" book="Crusade Imperialis" page="41">
                   <description>Sentry Gun Battery has Shrouded special rule until the first time it fires a weapon.  </description>
                   <modifiers/>
                 </rule>
@@ -6964,7 +6964,7 @@ Use at the start of the controlling player’s turn. Until the beginning of thei
                 </modifier>
               </modifiers>
               <rules>
-                <rule id="19aac9cf-a9a1-efcf-0187-01409bffaeae" name="Forward Deployment" hidden="false" book="HH:LACAL" page="44">
+                <rule id="19aac9cf-a9a1-efcf-0187-01409bffaeae" name="Forward Deployment" hidden="false"book="Crusade Imperialis" page="41">
                   <description>The Sentry Gun Battery has the Scout special rule. </description>
                   <modifiers/>
                 </rule>
@@ -6982,7 +6982,7 @@ Use at the start of the controlling player’s turn. Until the beginning of thei
                 </modifier>
               </modifiers>
               <rules>
-                <rule id="15d6e874-9ac2-1a44-fc98-0bc7dd0dfad9" name="Drop Capsule" hidden="false" book="HH4: Conquest" page="273">
+                <rule id="15d6e874-9ac2-1a44-fc98-0bc7dd0dfad9" name="Drop Capsule" hidden="false" book="Crusade Imperialis" page="41">
                   <description>Must be deployed via Deep Strike.  Each gun in the battery is treated as a separate unit for this, and reserves rolls are made separately for each gun.  </description>
                   <modifiers/>
                 </rule>
@@ -7074,7 +7074,7 @@ Use at the start of the controlling player’s turn. Until the beginning of thei
               </modifiers>
               <rules/>
               <profiles>
-                <profile id="4f403aae-e2b3-2679-2209-9b8181a733ca" profileTypeId="576561706f6e23232344415441232323" name="Hyperios Missile" hidden="false" book="HH4: Conquest" page="273">
+                <profile id="4f403aae-e2b3-2679-2209-9b8181a733ca" profileTypeId="576561706f6e23232344415441232323" name="Hyperios Missile" hidden="false" book="Crusade Imperialis" page="41">
                   <characteristics>
                     <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="48&quot;"/>
                     <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="8"/>
@@ -7107,7 +7107,7 @@ Use at the start of the controlling player’s turn. Until the beginning of thei
                 </modifier>
               </modifiers>
               <rules>
-                <rule id="55da46e6-d4e0-e133-3ade-1b4c26da438b" name="Hyperios Command Platform" hidden="false" book="HH:LACAL" page="44">
+                <rule id="55da46e6-d4e0-e133-3ade-1b4c26da438b" name="Hyperios Command Platform" hidden="false" book="Crusade Imperialis" page="41">
                   <description>While on the table, all Hyperios Air-defence Missile Launcher equipped Tarantula Sentry Guns in the same unit receive the Split Fire special rule.  The test is automatically passed for Split Fire.  </description>
                   <modifiers/>
                 </rule>
@@ -7130,7 +7130,7 @@ Use at the start of the controlling player’s turn. Until the beginning of thei
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="512fe0ac-b8f4-0a65-a201-e36df61174b0" name="Firing Modes" hidden="false" book="HH4: Conquest" page="273">
+        <rule id="512fe0ac-b8f4-0a65-a201-e36df61174b0" name="Firing Modes" hidden="false" book="Crusade Imperialis" page="41">
           <description>A Sentry Gun can fire in one of two ways and the controlling player must decide which mode each gun will use before the start of the game.  They cannot change modes and must remain in that mode for the rest of the game. 
 
 - Point Defence Mode: Fixed firing arc.  In this mode the gun will engage enemy targets up to 36&quot; away which are in a fixed 90 degree arc to its front.
@@ -7144,14 +7144,14 @@ Use at the start of the controlling player’s turn. Until the beginning of thei
             </modifier>
           </modifiers>
         </rule>
-        <rule id="f05cc36d-bc4c-e8ba-2d26-680db2ceec30" name="Automated Artillery" hidden="false" book="HH4: Conquest" page="252">
+        <rule id="f05cc36d-bc4c-e8ba-2d26-680db2ceec30" name="Automated Artillery" hidden="false" book="Crusade Imperialis" page="20">
           <modifiers/>
         </rule>
       </rules>
       <profiles/>
       <links/>
     </entry>
-    <entry id="d2558823-2356-b783-88cd-5bb701e20015" name="Thallax Cohort" points="15.0" categoryId="486561767920537570706f727423232344415441232323" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="HH4: Conquest" page="290">
+    <entry id="d2558823-2356-b783-88cd-5bb701e20015" name="Thallax Cohort" points="15.0" categoryId="486561767920537570706f727423232344415441232323" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="Crusade Imperialis" page="58">
       <entries>
         <entry id="0b9c6e09-b623-454f-0486-87a7c82bb14a" name="Thallax" points="40.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="9" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
@@ -7159,7 +7159,7 @@ Use at the start of the controlling player’s turn. Until the beginning of thei
           <modifiers/>
           <rules/>
           <profiles>
-            <profile id="919d1902-7575-85bc-2949-8ea8f103c94b" profileTypeId="556e697423232344415441232323" name="Thallax" hidden="false" book="HH4: Conquest" page="290">
+            <profile id="919d1902-7575-85bc-2949-8ea8f103c94b" profileTypeId="556e697423232344415441232323" name="Thallax" hidden="false" book="Crusade Imperialis" page="58">
               <characteristics>
                 <characteristic characteristicId="556e6974205479706523232344415441232323" name="Unit Type" value="Jet Pack Infantry"/>
                 <characteristic characteristicId="575323232344415441232323" name="WS" value="3"/>
@@ -7416,7 +7416,7 @@ Use at the start of the controlling player’s turn. Until the beginning of thei
       </profiles>
       <links/>
     </entry>
-    <entry id="98e057b6-29c7-b240-8a57-a936b45c1299" name="Auxilia Arvus Lighter Orbital Shuttle" points="75.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="HH4: Conquest" page="271">
+    <entry id="98e057b6-29c7-b240-8a57-a936b45c1299" name="Auxilia Arvus Lighter Orbital Shuttle" points="75.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="Crusade Imperialis" page="39">
       <entries/>
       <entryGroups>
         <entryGroup id="5e63e341-fb9f-a6e9-49d5-ad07cab4e38d" name="May take one of the following:" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
@@ -7573,7 +7573,7 @@ Use at the start of the controlling player’s turn. Until the beginning of thei
         </rule>
       </rules>
       <profiles>
-        <profile id="72eaa820-f986-bdeb-25e4-3389988f8b31" profileTypeId="dbe1-27e1-b8a6-8508" name="Auxilia Arvus Lighter Orbital Shuttle" hidden="false" book="HH4: Conquest" page="271">
+        <profile id="72eaa820-f986-bdeb-25e4-3389988f8b31" profileTypeId="dbe1-27e1-b8a6-8508" name="Auxilia Arvus Lighter Orbital Shuttle" hidden="false" book="Crusade Imperialis" page="39">
           <characteristics>
             <characteristic characteristicId="425323232344415441232323" name="BS" value="3"/>
             <characteristic characteristicId="46726f6e7423232344415441232323" name="Front" value="11"/>
@@ -7602,7 +7602,7 @@ Use at the start of the controlling player’s turn. Until the beginning of thei
         </link>
       </links>
     </entry>
-    <entry id="1c41cdb2-f7c8-ea03-d50d-4f68772731f2" name="Dracosan Armoured Transport" points="135.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="HH4: Conquest" page="270">
+    <entry id="1c41cdb2-f7c8-ea03-d50d-4f68772731f2" name="Dracosan Armoured Transport" points="135.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="Crusade Imperialis" page="38">
       <entries/>
       <entryGroups>
         <entryGroup id="6dcaf67f-f39b-11b5-789a-63b9646e07d1" name="May take any of the following:" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
@@ -7699,7 +7699,7 @@ Use at the start of the controlling player’s turn. Until the beginning of thei
       <modifiers/>
       <rules/>
       <profiles>
-        <profile id="35f972d7-5a48-b48b-386d-aac5cb95ba34" profileTypeId="56656869636c6523232344415441232323" name="Dracosan Armoured Transport" hidden="false" book="HH4: Conquest" page="270">
+        <profile id="35f972d7-5a48-b48b-386d-aac5cb95ba34" profileTypeId="56656869636c6523232344415441232323" name="Dracosan Armoured Transport" hidden="false" book="Crusade Imperialis" page="38">
           <characteristics>
             <characteristic characteristicId="425323232344415441232323" name="BS" value="3"/>
             <characteristic characteristicId="46726f6e7423232344415441232323" name="Front" value="13"/>
@@ -7960,7 +7960,7 @@ Use at the start of the controlling player’s turn. Until the beginning of thei
     </entryGroup>
   </sharedEntryGroups>
   <sharedRules>
-    <rule id="5c74-7d05-9558-75e1" name="Attached Deployment" hidden="false" book="HH4: Conquest" page="260">
+    <rule id="5c74-7d05-9558-75e1" name="Attached Deployment" hidden="false" book="Crusade Imperialis" page="28">
       <description>May be attached prior to deployment and may not leave that unit for the duration of the game.  The following units are eligible:
 - Auxilia Tactical Command Section
 - Auxilia Lasrifle Section
@@ -7968,11 +7968,11 @@ Use at the start of the controlling player’s turn. Until the beginning of thei
 - Veletaris Storm Section</description>
       <modifiers/>
     </rule>
-    <rule id="648c98ba-d7db-2992-ecc5-0c57f82a638a" name="Battle Servitor Control" hidden="false" book="HH4: Conquest" page="277">
+    <rule id="648c98ba-d7db-2992-ecc5-0c57f82a638a" name="Battle Servitor Control" hidden="false" book="Crusade Imperialis" page="45">
       <description>Gains Tank Hunters</description>
       <modifiers/>
     </rule>
-    <rule id="09afc391-36b1-67bc-b975-9bf8d56e5465" name="Battlesmith" hidden="false" book="HH:LACAL" page="81">
+    <rule id="09afc391-36b1-67bc-b975-9bf8d56e5465" name="Battlesmith" hidden="false" book="Crusade Imperialis" page="20">
       <description>If a Battlesmith is embarked on or in base contact with one or more damaged vehicles during the shooting phase, they may attempt to repair one of them instead of firing a weapon.  To attempt, roll a D6.  On a result of 5+ the Battlesmith may do one of the following:
 
 - Restore a lost Hull Point
@@ -7982,101 +7982,101 @@ Use at the start of the controlling player’s turn. Until the beginning of thei
 If a Weapon Destroyed result is repaired, that weapon may be fired in the following shooting phase.  The Battlesmith cannot use this ability if he has gone to ground or is falling back.  </description>
       <modifiers/>
     </rule>
-    <rule id="10be18c7-ffe3-1df3-0a8f-8ef1ad6200e1" name="Charger Burnout" hidden="false" book="HH4: Conquest" page="247">
+    <rule id="10be18c7-ffe3-1df3-0a8f-8ef1ad6200e1" name="Charger Burnout" hidden="false" book="Crusade Imperialis" page="15">
       <description>If a lasrifle is used with a Blast-charger, it may not be used again until at all until after the players next turn.  In addition, roll a D6.  On a 1, the blast-chargers may not be used again in this game.  </description>
       <modifiers/>
     </rule>
-    <rule id="aa451588-557c-7f81-2b3f-d17583985f38" name="Close Formation Fighting" hidden="false" book="HH4: Conquest" page="243">
+    <rule id="aa451588-557c-7f81-2b3f-d17583985f38" name="Close Formation Fighting" hidden="false" book="Crusade Imperialis" page="11">
       <description>So long as at least two friendly models with this special rule are in base contact during an assault, they may fight at +1 Weapon Skill.  </description>
       <modifiers/>
     </rule>
-    <rule id="574c2081-9a80-532f-6519-ef7cc15310e5" name="Coordinated Fire Protocols" hidden="false" book="HH4: Conquest" page="278">
+    <rule id="574c2081-9a80-532f-6519-ef7cc15310e5" name="Coordinated Fire Protocols" hidden="false" book="Crusade Imperialis" page="46">
       <description>So long as two or more tanks from the same squadron are firing at the same target, the tanks firing at that selected target gain +1 BS.  </description>
       <modifiers/>
     </rule>
-    <rule id="d5ad8357-ac59-2060-1faa-9526914fa0d1" name="Cybernetica" hidden="false" book="HH:LACAL" page="23">
+    <rule id="d5ad8357-ac59-2060-1faa-9526914fa0d1" name="Cybernetica" hidden="false" book="Crusade Imperialis" page="31">
       <description>If Servo-automata are no longer accompanied, they must take a Pinning test at the start of each Movement phase unless they are already engaged in combat.  </description>
       <modifiers/>
     </rule>
-    <rule id="722144d6-9b19-a410-ebe3-18fabab4667e" name="Deflagrate" hidden="false" book="HH:LACAL" page="85">
+    <rule id="722144d6-9b19-a410-ebe3-18fabab4667e" name="Deflagrate" hidden="false" book="Crusade Imperialis" page="14">
       <description>After normal attacks by this weapon have been resolved, count the number of unsaved wounds caused on the target unit.  Immediately resolve a number of additional automatic hits on the same unit using the weapon&apos;s profile equal to the number of unsaved wounds - these can then be saved normally.  Models must still be in range in order for the additional hits to take effect.  These additional hits do not themselves cause more hits.  </description>
       <modifiers/>
     </rule>
-    <rule id="80c70524-9908-04af-634b-d216772445fe" name="Disciplined Command" hidden="false" book="HH4: Conquest" page="243">
+    <rule id="80c70524-9908-04af-634b-d216772445fe" name="Disciplined Command" hidden="false" book="Crusade Imperialis" page="11">
       <modifiers/>
     </rule>
-    <rule id="470a38b3-ad69-52de-2996-36fa27f50e04" name="Disciplined Fire" hidden="false" book="HH4: Conquest" page="243">
+    <rule id="470a38b3-ad69-52de-2996-36fa27f50e04" name="Disciplined Fire" hidden="false" book="Crusade Imperialis" page="11">
       <description>Models with this special rule may fire Overwatch Snap Shots at BS2 when using Pistol, Assault, and Rapid Fire weapons. </description>
       <modifiers/>
     </rule>
-    <rule id="65f8cafb-0663-a321-3bd5-cd7fbb695ce1" name="Djinn-sight" hidden="false" book="HH3: Extermination" page="222">
+    <rule id="65f8cafb-0663-a321-3bd5-cd7fbb695ce1" name="Djinn-sight" hidden="false" book="Crusade Imperialis" page="18">
       <description>Reduces enemy benefit from cover by -2.  Additionally infiltrators may not be deployed within 24&quot;.  </description>
       <modifiers/>
     </rule>
-    <rule id="47879897-f297-6e79-1b9f-0e93e1a0bc13" name="Duellist&apos;s Edge" hidden="false" book="HH:LACAL" page="86">
+    <rule id="47879897-f297-6e79-1b9f-0e93e1a0bc13" name="Duellist&apos;s Edge" hidden="false" book="Crusade Imperialis" page="16">
       <description>When fighting a challenge, the user of this weapon gains +1 to their initiative value.  </description>
       <modifiers/>
     </rule>
-    <rule id="11bec7a8-6060-53c9-572c-0df68bf9fa78" name="Explorer Adaptation" hidden="false" book="HH4: Conquest" page="252">
+    <rule id="11bec7a8-6060-53c9-572c-0df68bf9fa78" name="Explorer Adaptation" hidden="false" book="Crusade Imperialis" page="20">
       <description>Vehicles with this special rule have a 6+ invulnerable save against weapons with the Blast or Template type, count as Void Hardened, and must re-roll failed Dangerous Terrain tests.  </description>
       <modifiers/>
     </rule>
-    <rule id="d729d4dd-ac32-9a68-777e-c6f7626a0e7b" name="Forged in War" hidden="false" book="HH4: Conquest" page="256">
+    <rule id="d729d4dd-ac32-9a68-777e-c6f7626a0e7b" name="Forged in War" hidden="false" book="Crusade Imperialis" page="24">
       <description>May select, rather than roll, its Warlord trait using the tables it is normally eligible for.  </description>
       <modifiers/>
     </rule>
-    <rule id="e973cdb6-040a-1d8e-0550-0df716b858f3" name="Graviton Pulse" hidden="false" book="HH:LACAL" page="83">
+    <rule id="e973cdb6-040a-1d8e-0550-0df716b858f3" name="Graviton Pulse" hidden="false" book="Crusade Imperialis" page="13">
       <description>Instead of rolling to wound normally with this weapon, any model caught in its blast must instead roll equal to or under their Strength on a D6 or suffer a wound (a roll of a 6 always counts as a failure).  After the Graviton pulse weapon has been fired, leave the Blast marker in place.  This area now counts as both difficult terrain and dangerous terrain for the next turn.  </description>
       <modifiers/>
     </rule>
-    <rule id="67be34bf-1e03-7a85-29be-e960ecf6ff1a" name="Ground-tracking Auguries" hidden="false" book="HH4: Conquest" page="277">
+    <rule id="67be34bf-1e03-7a85-29be-e960ecf6ff1a" name="Ground-tracking Auguries" hidden="false" book="Crusade Imperialis" page="45">
       <description>A Flyer with this system gains the Strafing Run rule.  </description>
       <modifiers/>
     </rule>
-    <rule id="1012035b-91e1-dc4f-9870-79feacf53778" name="Heat Seeker" hidden="false" book="HH4: Conquest" page="273">
+    <rule id="1012035b-91e1-dc4f-9870-79feacf53778" name="Heat Seeker" hidden="false" book="Crusade Imperialis" page="41">
       <description>Jink saves may not be taken against attacks with this special rule.  </description>
       <modifiers/>
     </rule>
-    <rule id="63de1c70-7ee2-24ab-590e-aefe122b17ce" name="High Command" hidden="false" book="HH4: Conquest" page="256">
+    <rule id="63de1c70-7ee2-24ab-590e-aefe122b17ce" name="High Command" hidden="false" book="Crusade Imperialis" page="24">
       <description>So long as this model is on the table (including in a transport or fortification) and not either Falling Back or engaged in an assault, all friendly units from the same detachment may use this model&apos;s Leadership value rather than their own when taking Morale checks and Pinning tests.  </description>
       <modifiers/>
     </rule>
-    <rule id="0f466e26-4de9-d53c-5270-4c95dcf6867e" name="Hold the Line" hidden="false" book="HH4: Conquest" page="243">
+    <rule id="0f466e26-4de9-d53c-5270-4c95dcf6867e" name="Hold the Line" hidden="false" book="Crusade Imperialis" page="11">
       <description>While a squad with this rule is within 12&quot; of another squad from the same Tercio which is itself not already falling back, it may re-roll any dice results of a 6 against Pinning tests and Morale checks caused by attacks in the Psychic or Shooting phases.  </description>
       <modifiers/>
     </rule>
-    <rule id="f7437df9-95af-6a73-4ee8-3bdb569d0d01" name="Household Retinue" hidden="false" book="HH4: Conquest" page="256">
+    <rule id="f7437df9-95af-6a73-4ee8-3bdb569d0d01" name="Household Retinue" hidden="false" book="Crusade Imperialis" page="24">
       <modifiers/>
     </rule>
     <rule id="bfa1f745-f8d6-de2c-0b8e-e6dc4ef6dea7" name="Independent Character" hidden="false">
       <modifiers/>
     </rule>
-    <rule id="4a15e9b2-b47d-e765-ceb8-8b8aba0e708d" name="Induction Charger" hidden="false" book="HH4: Conquest" page="274">
+    <rule id="4a15e9b2-b47d-e765-ceb8-8b8aba0e708d" name="Induction Charger" hidden="false" book="Crusade Imperialis" page="42">
       <description>Once per game, declare use at the start of the controlling player&apos;s Movement Phase.  The squadron counts as having the Fast special rule for this player turn.  </description>
       <modifiers/>
     </rule>
-    <rule id="ed795f28-cb75-87b2-c831-415f86e05c86" name="Murderous Strike" hidden="false" page="0">
+    <rule id="ed795f28-cb75-87b2-c831-415f86e05c86" name="Murderous Strike" hidden="false" book="Crusade Imperialis" page="16">
       <description>Causes Instant Death on a To Wound roll of 6</description>
       <modifiers/>
     </rule>
     <rule id="792d05b8-9eef-0f60-9b2f-35a0b68331bb" name="Outflank" hidden="false">
       <modifiers/>
     </rule>
-    <rule id="bb70931e-2348-37f4-00f1-499066120e56" name="Rad-phage" hidden="false" book="HH:LACAL" page="84">
+    <rule id="bb70931e-2348-37f4-00f1-499066120e56" name="Rad-phage" hidden="false" book="Crusade Imperialis" page="13">
       <description>A model which loses one or more wounds to an attack with this rule and survives suffers a -1 penalty to its Toughness value for the rest of the battle.  </description>
       <modifiers/>
     </rule>
-    <rule id="8419eb78-ea22-458d-2cf2-0fe53e265740" name="Simulacra Repair" hidden="false" book="HH4: Conquest" page="275">
+    <rule id="8419eb78-ea22-458d-2cf2-0fe53e265740" name="Simulacra Repair" hidden="false" book="Crusade Imperialis" page="43">
       <description>When a vehicle suffers a glancing hit, roll a D6.  On a result of a 6, the damage is ignored.  </description>
       <modifiers/>
     </rule>
-    <rule id="910b8ff3-ef64-f4a4-4f55-f85c7d67b95d" name="Super-heavy Command Tank" hidden="false" book="HH4: Conquest" page="243">
+    <rule id="910b8ff3-ef64-f4a4-4f55-f85c7d67b95d" name="Super-heavy Command Tank" hidden="false" book="Crusade Imperialis" page="11">
       <description>If the vehicle is upgraded to a Super-heavy Command Tank, all allied units within 24&quot; of the vehicle may re-roll failed Morale Checks.  </description>
       <modifiers/>
     </rule>
   </sharedRules>
   <sharedProfiles>
-    <profile id="d1340329-449e-1f3c-f3b5-48c213985288" profileTypeId="576561706f6e23232344415441232323" name="Archaeotech Pistol" hidden="false" book="HH:LACAL" page="82">
+    <profile id="d1340329-449e-1f3c-f3b5-48c213985288" profileTypeId="576561706f6e23232344415441232323" name="Archaeotech Pistol" hidden="false" book="Crusade Imperialis" page="13">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="12&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="6"/>
@@ -8085,25 +8085,25 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="4f5773bc-29a7-6c1e-dae1-a81d49abdf48" profileTypeId="57617267656172204974656d23232344415441232323" name="Armoured Ceramite" hidden="false" book="HH:LACAL" page="88">
+    <profile id="4f5773bc-29a7-6c1e-dae1-a81d49abdf48" profileTypeId="57617267656172204974656d23232344415441232323" name="Armoured Ceramite" hidden="false" book="Crusade Imperialis" page="17">
       <characteristics>
         <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="A vehicle with this wargear is not subject to the additional D6 armour penetration caused by weapons with the Melta special rule.  "/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="a7ee7212-6cb4-fca3-b31c-1bdd460878cf" profileTypeId="57617267656172204974656d23232344415441232323" name="Armoured Cockpit" hidden="false" book="HH:LACAL" page="88">
+    <profile id="a7ee7212-6cb4-fca3-b31c-1bdd460878cf" profileTypeId="57617267656172204974656d23232344415441232323" name="Armoured Cockpit" hidden="false" book="Crusade Imperialis" page="17">
       <characteristics>
         <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="May ignore Crew shaken or stunned on a D6 roll of 4+"/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="a8f5b4cd-2768-75aa-1617-ed56dc140270" profileTypeId="57617267656172204974656d23232344415441232323" name="Augury Scanner" hidden="false" book="HH:LACAL" page="88">
+    <profile id="a8f5b4cd-2768-75aa-1617-ed56dc140270" profileTypeId="57617267656172204974656d23232344415441232323" name="Augury Scanner" hidden="false" book="Crusade Imperialis" page="17">
       <characteristics>
         <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="Models cannot be deployed using the Infiltrate special rule within 18&quot; of an Augury Scanner.  A unit carrying an Augury Scanner gains the Interceptor rule against enemy units deploying via Deep Strike within 18&quot;"/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="f7733b9f-53b3-fea6-a353-06c729deb699" profileTypeId="576561706f6e23232344415441232323" name="Auxilia Lasrifle" hidden="false" book="HH4: Conquest" page="247">
+    <profile id="f7733b9f-53b3-fea6-a353-06c729deb699" profileTypeId="576561706f6e23232344415441232323" name="Auxilia Lasrifle" hidden="false" book="Crusade Imperialis" page="15">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="30&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="3"/>
@@ -8112,7 +8112,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="98fc0712-263b-e44a-e903-fa918a16885c" profileTypeId="576561706f6e23232344415441232323" name="Auxilia Lasrifle (Blast-charger)" hidden="false" book="HH4: Conquest" page="247">
+    <profile id="98fc0712-263b-e44a-e903-fa918a16885c" profileTypeId="576561706f6e23232344415441232323" name="Auxilia Lasrifle (Blast-charger)" hidden="false" book="Crusade Imperialis" page="15">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="18&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="6"/>
@@ -8121,7 +8121,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="a36164d1-02bb-16ed-19eb-65bc915bd832" profileTypeId="576561706f6e23232344415441232323" name="Auxilia Lasrifle (Collimator)" hidden="false" book="HH4: Conquest" page="247">
+    <profile id="a36164d1-02bb-16ed-19eb-65bc915bd832" profileTypeId="576561706f6e23232344415441232323" name="Auxilia Lasrifle (Collimator)" hidden="false" book="Crusade Imperialis" page="15">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="36&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="3"/>
@@ -8130,13 +8130,13 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="bac810c2-5f6c-9995-bcc1-94a3983f1f94" profileTypeId="57617267656172204974656d23232344415441232323" name="Auxiliary Drive" hidden="false" book="HH:LACAL" page="88">
+    <profile id="bac810c2-5f6c-9995-bcc1-94a3983f1f94" profileTypeId="57617267656172204974656d23232344415441232323" name="Auxiliary Drive" hidden="false" book="Crusade Imperialis" page="17">
       <characteristics>
         <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="A vehicle with an Auxiliary Drive may ignore Immobilised results it suffers on a D6 roll of a 4+"/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="bf51be2a-da2c-b722-f0f4-d8be6779710e" profileTypeId="576561706f6e23232344415441232323" name="Blast Pistol" hidden="false" book="HH4: Conquest" page="247">
+    <profile id="bf51be2a-da2c-b722-f0f4-d8be6779710e" profileTypeId="576561706f6e23232344415441232323" name="Blast Pistol" hidden="false" book="Crusade Imperialis" page="15">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="6&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="5"/>
@@ -8145,46 +8145,46 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="10c6f36c-5311-c691-21a7-44286f4fcbbc" profileTypeId="57617267656172204974656d23232344415441232323" name="Chaff/Flare Launchers" hidden="false" book="HH:LACAL" page="90">
+    <profile id="10c6f36c-5311-c691-21a7-44286f4fcbbc" profileTypeId="57617267656172204974656d23232344415441232323" name="Chaff/Flare Launchers" hidden="false" book="Crusade Imperialis" page="18">
       <characteristics>
-        <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="Gains 4++ invulnerable against damage caused by missile weapons. "/>
+        <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="One Use. Gains 4++ invulnerable against damage caused by missile weapons. "/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="9c538d14-da32-654d-21a0-ee4f0a3354f4" profileTypeId="576561706f6e23232344415441232323" name="Charnabal Sabre" hidden="false" book="HH:LACAL" page="86">
+    <profile id="9c538d14-da32-654d-21a0-ee4f0a3354f4" profileTypeId="576561706f6e23232344415441232323" name="Charnabal Sabre" hidden="false" book="Crusade Imperialis" page="16">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="-"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="User"/>
         <characteristic characteristicId="415023232344415441232323" name="AP" value="-"/>
-        <characteristic characteristicId="5479706523232344415441232323" name="Type" value="Melee, Rending, Deullist&apos;s Edge"/>
+        <characteristic characteristicId="5479706523232344415441232323" name="Type" value="Melee, Rending, Duellist&apos;s Edge"/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="27fa97b6-468d-4a4e-b83f-61efed13d795" profileTypeId="57617267656172204974656d23232344415441232323" name="Cognis-signum" hidden="false" book="HH:LACAL" page="88">
+    <profile id="27fa97b6-468d-4a4e-b83f-61efed13d795" profileTypeId="57617267656172204974656d23232344415441232323" name="Cognis-signum" hidden="false" book="Crusade Imperialis" page="17">
       <characteristics>
-        <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="Model equipped with Cognis-sigum gains Night Vision special rule.  In addition, in lieu of firing a weapon in the Shooting phase, a single designated unit of the controlling player&apos;s choice withing 6&quot; of the signum-equipped model (excluding Independent Characters and Super-Heavies) gains a bonus of +1 to their BS for that shooting phase.  "/>
+        <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="Model equipped with Cognis-sigum automatically counts as being equipped with an Augury Scanner and has the Night Vision special rule.  In addition, in lieu of firing a weapon in the Shooting phase, a single designated unit of the controlling player&apos;s choice withing 6&quot; of the signum-equipped model (excluding Independent Characters and Super-Heavies) gains a bonus of +1 to their BS for that shooting phase.  "/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="3c05e6b4-5c43-4815-d0f3-28ee932d80f0" profileTypeId="57617267656172204974656d23232344415441232323" name="Cohort Vexilla" hidden="false" book="HH4: Conquest" page="250">
+    <profile id="3c05e6b4-5c43-4815-d0f3-28ee932d80f0" profileTypeId="57617267656172204974656d23232344415441232323" name="Cohort Vexilla" hidden="false" book="Crusade Imperialis" page="18">
       <characteristics>
-        <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="A unit that contains a model with a Troop Vexilla counts as scoring an additional wound for close combat results and may always attempt to regroup regardless of being below 25%.  Additionally, any friendly unit from the Soloar Auxilia army with models within 24&quot; of the Cohort Auxilia may ignore casualties when taking Morale checks.  "/>
+        <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="A unit that contains a model with a Cohort Vexilla counts as scoring an additional wound for close combat results and may always attempt to regroup regardless of being below 25%.  Additionally, any friendly unit from the Soloar Auxilia army with models within 24&quot; of the Cohort Auxilia may ignore casualties when taking Morale checks.  "/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="99013acd-b8f8-b7c3-8fc4-7604d67e89a7" profileTypeId="57617267656172204974656d23232344415441232323" name="Cortex Controller" hidden="false" book="HH:LACAL" page="89">
+    <profile id="99013acd-b8f8-b7c3-8fc4-7604d67e89a7" profileTypeId="57617267656172204974656d23232344415441232323" name="Cortex Controller" hidden="false" book="Crusade Imperialis" page="17">
       <characteristics>
         <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="Presence of a Cortex Controller within 12&quot; of a unit of friendly models with the Programmed Behaviour special rule at the start of any phase means that special rule is negated for that phase and their controlling player is free to use them as any other unit.  "/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="e426b32c-adcf-ddd3-8635-a9da6f895868" profileTypeId="57617267656172204974656d23232344415441232323" name="Cyber-familiar" hidden="false" book="HH:LACAL" page="89">
+    <profile id="e426b32c-adcf-ddd3-8635-a9da6f895868" profileTypeId="57617267656172204974656d23232344415441232323" name="Cyber-familiar" hidden="false" book="Crusade Imperialis" page="17">
       <characteristics>
         <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="A Cyber-familiar adds +1 to its owners Invulnerable save (to a maximum of 3++) or provides an Invulnerable save of a 6++.   In addition they allow the owner to re-roll failed characteristic tests other than Leadership tests and failed Dangerous Terrain tests.  "/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="cffa84fe-0304-a520-2662-461fa2f67e78" profileTypeId="576561706f6e23232344415441232323" name="Darkfire Cannon" hidden="false" book="HH3: Extermination" page="209">
+    <profile id="cffa84fe-0304-a520-2662-461fa2f67e78" profileTypeId="576561706f6e23232344415441232323" name="Darkfire Cannon" hidden="false" book="Crusade Imperialis" page="14">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="60&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="7"/>
@@ -8193,25 +8193,25 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="1915734d-695d-86fa-6c1d-b75a8af5c6d9" profileTypeId="57617267656172204974656d23232344415441232323" name="Displacer Matrix" hidden="false" book="HH4: Conquest" page="249">
+    <profile id="1915734d-695d-86fa-6c1d-b75a8af5c6d9" profileTypeId="57617267656172204974656d23232344415441232323" name="Displacer Matrix" hidden="false" book="Crusade Imperialis" page="17">
       <characteristics>
         <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="Provides a 3+ Invulnerable save.  In addition, if any results of a 1 are rolled for the save, the model is removed from play and enters Ongoing reserves.  They must return via Deep Strike, but if any mishap occurs, they are destroyed.  "/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="1ab5c7a1-c0a7-b182-a718-df72f0b201f7" profileTypeId="57617267656172204974656d23232344415441232323" name="Flare Shield" hidden="false" book="HH:LACAL" page="89">
+    <profile id="1ab5c7a1-c0a7-b182-a718-df72f0b201f7" profileTypeId="57617267656172204974656d23232344415441232323" name="Flare Shield" hidden="false" book="Crusade Imperialis" page="18">
       <characteristics>
-        <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="A flare shield operates against shooting attacks that strike the vehicle&apos;s front arc.  It reduces the strength of attacks by weapons with the Templae or Blast type by -2, and other shooting attacks by -1.  A flare shield has no effect on attacks from close combat or with the Destroyer rule.  "/>
+        <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="A flare shield operates against shooting attacks that strike the vehicle&apos;s front arc.  It reduces the strength of attacks by weapons with the Template or Blast type by -2, and other shooting attacks by -1.  A flare shield has no effect on attacks from close combat or with the Destroyer rule.  "/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="b8b94f6d-4965-1d1f-9d7a-3649649c51b7" profileTypeId="57617267656172204974656d23232344415441232323" name="Grav-wave generator" hidden="false" book="HH4: Conquest" page="250">
+    <profile id="b8b94f6d-4965-1d1f-9d7a-3649649c51b7" profileTypeId="57617267656172204974656d23232344415441232323" name="Grav-wave generator" hidden="false" book="Crusade Imperialis" page="18">
       <characteristics>
         <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="Any model or unit charging the bearer suffers a penalty of D3&quot; to the charge distance roll and may not make any Hammer of Wrath attacks this turn.  "/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="09afd811-8aa5-c786-2708-31979b69c960" profileTypeId="576561706f6e23232344415441232323" name="Graviton Cannon" hidden="false" book="HH:LACAL" page="83">
+    <profile id="09afd811-8aa5-c786-2708-31979b69c960" profileTypeId="576561706f6e23232344415441232323" name="Graviton Cannon" hidden="false" book="Crusade Imperialis" page="13">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="36&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="*"/>
@@ -8220,7 +8220,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="a0af005b-f03e-0c8e-23c9-b8d60b78a36a" profileTypeId="576561706f6e23232344415441232323" name="Graviton Gun" hidden="false" book="HH:LACAL" page="83">
+    <profile id="a0af005b-f03e-0c8e-23c9-b8d60b78a36a" profileTypeId="576561706f6e23232344415441232323" name="Graviton Gun" hidden="false" book="Crusade Imperialis" page="13">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="18&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="*"/>
@@ -8229,7 +8229,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="cc4860a0-465c-fb33-3175-119d9ea47519" profileTypeId="576561706f6e23232344415441232323" name="Heavy Chainblade" hidden="false" book="HH4: Conquest" page="248">
+    <profile id="cc4860a0-465c-fb33-3175-119d9ea47519" profileTypeId="576561706f6e23232344415441232323" name="Heavy Chainblade" hidden="false" book="Crusade Imperialis" page="16">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="-"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="+2"/>
@@ -8238,7 +8238,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="284273dc-07b8-76f9-ade5-8d3e145a6162" profileTypeId="576561706f6e23232344415441232323" name="Hellstrike Missiles" hidden="false" book="HH1: Betrayal" page="0">
+    <profile id="284273dc-07b8-76f9-ade5-8d3e145a6162" profileTypeId="576561706f6e23232344415441232323" name="Hellstrike Missiles" hidden="false" book="Crusade Imperialis" page="13">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="72&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="8"/>
@@ -8247,19 +8247,19 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="e984ed65-17e9-52e1-1603-f830ba6ad251" profileTypeId="57617267656172204974656d23232344415441232323" name="Illum Flares" hidden="false" book="HH:LACAL" page="90">
+    <profile id="e984ed65-17e9-52e1-1603-f830ba6ad251" profileTypeId="57617267656172204974656d23232344415441232323" name="Illum Flares" hidden="false" book="Crusade Imperialis" page="18">
       <characteristics>
         <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="May drop a single flare per turn.  Fired just as bombs - flare is placed after scattering.  Leave in place until the end of the turn.  Any unit targeting an enemy within 12&quot; of the flare gains Night Vision for the shooting phase.  Split fire does not apply.  "/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="2b41c2af-292a-5e17-1996-1f086afc5bd2" profileTypeId="57617267656172204974656d23232344415441232323" name="Infravisor" hidden="false" book="HH3: Extermination" page="208">
+    <profile id="2b41c2af-292a-5e17-1996-1f086afc5bd2" profileTypeId="57617267656172204974656d23232344415441232323" name="Infravisor" hidden="false" book="Crusade Imperialis" page="18">
       <characteristics>
         <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="Confers Night Vision, but counts as I1 for blind tests.  "/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="e008aca1-b57a-5f7c-e41f-14519519fbee" profileTypeId="576561706f6e23232344415441232323" name="Irad-cleanser" hidden="false" book="HH1: Betrayal" page="240">
+    <profile id="e008aca1-b57a-5f7c-e41f-14519519fbee" profileTypeId="576561706f6e23232344415441232323" name="Rad/Irad-cleanser" hidden="false" book="Crusade Imperialis" page="13">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="Template"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="2"/>
@@ -8268,13 +8268,13 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="7b3ce291-95e6-0ffd-6625-555acb3ea031" profileTypeId="57617267656172204974656d23232344415441232323" name="Iron Halo" hidden="false" page="0">
+    <profile id="7b3ce291-95e6-0ffd-6625-555acb3ea031" profileTypeId="57617267656172204974656d23232344415441232323" name="Iron Halo" hidden="false" book="Crusade Imperialis" page="19">
       <characteristics>
         <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="Confers 4++ Invulnerable Save"/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="f30af14f-b0dc-3aec-51a6-3e12555e4a4a" profileTypeId="576561706f6e23232344415441232323" name="Irradiation Engine" hidden="false" book="HH1: Betrayal" page="240">
+    <profile id="f30af14f-b0dc-3aec-51a6-3e12555e4a4a" profileTypeId="576561706f6e23232344415441232323" name="Irradiation Engine" hidden="false" book="Crusade Imperialis" page="13">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="Template"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="4"/>
@@ -8283,7 +8283,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="d1d6a67c-d459-abd8-5e7d-41900b3a84f4" profileTypeId="576561706f6e23232344415441232323" name="Kinetic Grenade" hidden="false" book="HH4: Conquest" page="247">
+    <profile id="d1d6a67c-d459-abd8-5e7d-41900b3a84f4" profileTypeId="576561706f6e23232344415441232323" name="Kinetic Grenade" hidden="false" book="Crusade Imperialis" page="15">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="24&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="4"/>
@@ -8292,7 +8292,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="80efdbf0-7d1e-6f57-028d-8566d4b1368e" profileTypeId="576561706f6e23232344415441232323" name="Krak Grenade" hidden="false" book="HH4: Conquest" page="247">
+    <profile id="80efdbf0-7d1e-6f57-028d-8566d4b1368e" profileTypeId="576561706f6e23232344415441232323" name="Krak Grenade" hidden="false" book="Crusade Imperialis" page="15">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="24&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="6"/>
@@ -8310,16 +8310,16 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="d90f9aa1-9ae2-2dac-5559-b6260068d7ae" profileTypeId="576561706f6e23232344415441232323" name="Laser Destroyer" hidden="false" book="HH:LACAL" page="84">
+    <profile id="d90f9aa1-9ae2-2dac-5559-b6260068d7ae" profileTypeId="576561706f6e23232344415441232323" name="Laser Destroyer Array" hidden="false" book="Crusade Imperialis" page="15">
       <characteristics>
-        <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="36&quot;"/>
+        <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="48&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="9"/>
         <characteristic characteristicId="415023232344415441232323" name="AP" value="1"/>
         <characteristic characteristicId="5479706523232344415441232323" name="Type" value="Ordnance 1, Twin-linked"/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="f50f2dc1-624c-85a5-abdb-477618bb7d6e" profileTypeId="576561706f6e23232344415441232323" name="Laspistol" hidden="false" book="HH4: Conquest" page="247">
+    <profile id="f50f2dc1-624c-85a5-abdb-477618bb7d6e" profileTypeId="576561706f6e23232344415441232323" name="Laspistol" hidden="false" book="Crusade Imperialis" page="15">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="12&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="3"/>
@@ -8328,7 +8328,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="ba12f018-1383-b401-42de-ae503de4fd71" profileTypeId="576561706f6e23232344415441232323" name="Lightning Gun" hidden="false" book="HH1: Betrayal" page="240">
+    <profile id="ba12f018-1383-b401-42de-ae503de4fd71" profileTypeId="576561706f6e23232344415441232323" name="Lightning Gun" hidden="false" book="Crusade Imperialis" page="14">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="18&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="7"/>
@@ -8337,13 +8337,13 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="82a49848-9eb1-305f-5f2a-fc8d08de7248" profileTypeId="57617267656172204974656d23232344415441232323" name="Lorica Thallax" hidden="false" book="HH1: Betrayal" page="240">
+    <profile id="82a49848-9eb1-305f-5f2a-fc8d08de7248" profileTypeId="57617267656172204974656d23232344415441232323" name="Lorica Thallax" hidden="false" book="Crusade Imperialis" page="18">
       <characteristics>
         <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="Porvides 4+ Armour and FNP 6+ but may not make Sweeping Advances"/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="ea08850e-9da9-90bd-4bfe-655139f61a8e" profileTypeId="576561706f6e23232344415441232323" name="Lucifex" hidden="false" book="HH3: Extermination" page="208">
+    <profile id="ea08850e-9da9-90bd-4bfe-655139f61a8e" profileTypeId="576561706f6e23232344415441232323" name="Lucifex" hidden="false" book="Crusade Imperialis" page="13">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="6&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="2"/>
@@ -8352,7 +8352,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="af25b7de-d035-2c93-6ced-76c45bd5f5da" profileTypeId="576561706f6e23232344415441232323" name="Mauler Bolt Cannon" hidden="false" book="HH3: Extermination" page="209">
+    <profile id="af25b7de-d035-2c93-6ced-76c45bd5f5da" profileTypeId="576561706f6e23232344415441232323" name="Mauler Bolt Cannon" hidden="false" book="Crusade Imperialis" page="14">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="24&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="6"/>
@@ -8361,7 +8361,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="9e5daeb2-93d7-cac7-9d23-c85b81e46ea2" profileTypeId="576561706f6e23232344415441232323" name="Multi-laser" hidden="false" book="HH4: Conquest" page="247">
+    <profile id="9e5daeb2-93d7-cac7-9d23-c85b81e46ea2" profileTypeId="576561706f6e23232344415441232323" name="Multi-laser" hidden="false" book="Crusade Imperialis" page="15">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="36&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="6"/>
@@ -8370,7 +8370,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="269c4711-8561-1d7b-0150-bbba32072f39" profileTypeId="576561706f6e23232344415441232323" name="Needle Pistol" hidden="false" book="HH:LACAL" page="84">
+    <profile id="269c4711-8561-1d7b-0150-bbba32072f39" profileTypeId="576561706f6e23232344415441232323" name="Needle Pistol" hidden="false" book="Crusade Imperialis" page="14">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="12&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="2"/>
@@ -8379,13 +8379,13 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="2daecc7c-fbc8-6d50-001f-6f081243db44" profileTypeId="57617267656172204974656d23232344415441232323" name="Nuncio-vox" hidden="false" book="HH:LACAL" page="91">
+    <profile id="2daecc7c-fbc8-6d50-001f-6f081243db44" profileTypeId="57617267656172204974656d23232344415441232323" name="Nuncio-vox" hidden="false" book="Crusade Imperialis" page="19">
       <characteristics>
         <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="Units arriving via Deep Strike within 6&quot;  of a Nuncio-vox do not scatter.  When barrage weapons are used by the controlling player, line of sight may be drawn from any model equipped with a Nuncio-vox as well as the firing model itself. Range is still drawn from the firing model.  It may not be used inside a vehicle.   "/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="534a368d-08c3-0ed9-71a3-870e4ab5e7e3" profileTypeId="576561706f6e23232344415441232323" name="Paragon Blade" hidden="false" book="HH1: Betrayal" page="235">
+    <profile id="534a368d-08c3-0ed9-71a3-870e4ab5e7e3" profileTypeId="576561706f6e23232344415441232323" name="Paragon Blade" hidden="false" book="Crusade Imperialis" page="16">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="-"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="+1"/>
@@ -8394,7 +8394,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="f4aa365c-8c58-5658-1b2e-4879848aae89" profileTypeId="576561706f6e23232344415441232323" name="Phased-Plasma Fusil" hidden="false" book="HH1:Betrayal" page="232">
+    <profile id="f4aa365c-8c58-5658-1b2e-4879848aae89" profileTypeId="576561706f6e23232344415441232323" name="Phased-Plasma Fusil" hidden="false" book="Crusade Imperialis" page="14">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="24&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="6"/>
@@ -8403,7 +8403,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="04924d19-1547-5aac-aeb9-b6a80feb20ef" profileTypeId="576561706f6e23232344415441232323" name="Photon Gauntlet" hidden="false" book="HH3: Extermination" page="209">
+    <profile id="04924d19-1547-5aac-aeb9-b6a80feb20ef" profileTypeId="576561706f6e23232344415441232323" name="Photon Gauntlet" hidden="false" book="Crusade Imperialis" page="14">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="12&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="5"/>
@@ -8412,7 +8412,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="59fa4207-b5dc-94fd-ff43-37135c8ecb61" profileTypeId="576561706f6e23232344415441232323" name="Photon Thruster" hidden="false" book="HH3: Extermination" page="209">
+    <profile id="59fa4207-b5dc-94fd-ff43-37135c8ecb61" profileTypeId="576561706f6e23232344415441232323" name="Photon Thruster" hidden="false" book="Crusade Imperialis" page="14">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="48&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="6"/>
@@ -8421,7 +8421,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="6b9bde8d-7ce2-6098-cf5f-4d523609be9b" profileTypeId="576561706f6e23232344415441232323" name="Plasma Blaster" hidden="false" book="HH:LACAL" page="84">
+    <profile id="6b9bde8d-7ce2-6098-cf5f-4d523609be9b" profileTypeId="576561706f6e23232344415441232323" name="Plasma Blaster" hidden="false" book="Crusade Imperialis" page="14">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="18&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="7"/>
@@ -8430,7 +8430,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="7ad65a49-98f4-549a-2904-ce9a67d0ccaa" profileTypeId="576561706f6e23232344415441232323" name="Power Blades" hidden="false" book="HH3: Extermination" page="208">
+    <profile id="7ad65a49-98f4-549a-2904-ce9a67d0ccaa" profileTypeId="576561706f6e23232344415441232323" name="Power Blades" hidden="false" book="Crusade Imperialis" page="16">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="-"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="User"/>
@@ -8439,13 +8439,13 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="1c03eb3f-dd49-171f-e5eb-b22d40798be7" profileTypeId="57617267656172204974656d23232344415441232323" name="Psi-jammer" hidden="false" book="HH4: Conquest" page="251">
+    <profile id="1c03eb3f-dd49-171f-e5eb-b22d40798be7" profileTypeId="57617267656172204974656d23232344415441232323" name="Psi-jammer" hidden="false" book="Crusade Imperialis" page="19">
       <characteristics>
         <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="Confers Adamantium Will special rule. "/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="120bf6f9-2c3d-ea14-c684-bbf7ff504215" profileTypeId="576561706f6e23232344415441232323" name="Quad Mortar" hidden="false" book="HH:LACAL" page="83">
+    <profile id="120bf6f9-2c3d-ea14-c684-bbf7ff504215" profileTypeId="576561706f6e23232344415441232323" name="Quad Mortar" hidden="false" book="Crusade Imperialis" page="13">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="12&quot; - 60&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="5"/>
@@ -8454,7 +8454,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="790d3edd-2d04-3427-2b91-30fe47243ed9" profileTypeId="576561706f6e23232344415441232323" name="Quad Multi-laser" hidden="false" book="HH4: Conquest" page="247">
+    <profile id="790d3edd-2d04-3427-2b91-30fe47243ed9" profileTypeId="576561706f6e23232344415441232323" name="Quad Multi-laser" hidden="false" book="Crusade Imperialis" page="15">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="36&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="6"/>
@@ -8463,19 +8463,19 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="e384f852-79af-ecdf-f0b9-95dbecf13613" profileTypeId="57617267656172204974656d23232344415441232323" name="Refractor Field" hidden="false" page="0">
+    <profile id="e384f852-79af-ecdf-f0b9-95dbecf13613" profileTypeId="57617267656172204974656d23232344415441232323" name="Refractor Field" hidden="false" book="Crusade Imperialis" page="19">
       <characteristics>
         <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="Confers 5++ Invulnerable Save"/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="dff0089a-4273-26a0-d96f-b5a36d57a18f" profileTypeId="57617267656172204974656d23232344415441232323" name="Reinforced Void Armour" hidden="false" book="HH4: Conquest" page="251">
+    <profile id="dff0089a-4273-26a0-d96f-b5a36d57a18f" profileTypeId="57617267656172204974656d23232344415441232323" name="Reinforced Void Armour" hidden="false" book="Crusade Imperialis" page="19">
       <characteristics>
         <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="Provides a 4+ save and counts as being Void Hardened in games of Zone Mortalis.  Additionally, wearer must re-roll failed saves against Template and Blast type weapons.  "/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="1e0e2a97-ba66-58b5-2e35-f6d727acae01" profileTypeId="576561706f6e23232344415441232323" name="Rotor Cannon" hidden="false" book="HH:LACAL" page="85">
+    <profile id="1e0e2a97-ba66-58b5-2e35-f6d727acae01" profileTypeId="576561706f6e23232344415441232323" name="Rotor Cannon" hidden="false" book="Crusade Imperialis" page="14">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="30&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="3"/>
@@ -8484,7 +8484,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="29d0c857-4b9e-cb18-9bf4-e1b3a2f60284" profileTypeId="576561706f6e23232344415441232323" name="Servo-arm" hidden="false" book="HH3: Extermination" page="208">
+    <profile id="29d0c857-4b9e-cb18-9bf4-e1b3a2f60284" profileTypeId="576561706f6e23232344415441232323" name="Servo-arm" hidden="false" book="Crusade Imperialis" page="19">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="-"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="8"/>
@@ -8493,7 +8493,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="5e5ca3a2-8a82-2700-39fa-acda4e7bf5fa" profileTypeId="556e697423232344415441232323" name="Servo-automata" hidden="false" book="HH:LACAL" page="23">
+    <profile id="5e5ca3a2-8a82-2700-39fa-acda4e7bf5fa" profileTypeId="556e697423232344415441232323" name="Servo-automata" hidden="false" book="Crusade Imperialis" page="31">
       <characteristics>
         <characteristic characteristicId="556e6974205479706523232344415441232323" name="Unit Type" value="Infantry"/>
         <characteristic characteristicId="575323232344415441232323" name="WS" value="3"/>
@@ -8508,16 +8508,16 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="bdc6a516-51fb-31ee-75a9-0af2ec2a2268" profileTypeId="576561706f6e23232344415441232323" name="Sunfury Heavy Missile" hidden="false" book="HH4: Conquest" page="277">
+    <profile id="bdc6a516-51fb-31ee-75a9-0af2ec2a2268" profileTypeId="576561706f6e23232344415441232323" name="Sunfury Heavy Missile" hidden="false" book="Crusade Imperialis" page="45">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="36&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="6"/>
         <characteristic characteristicId="415023232344415441232323" name="AP" value="3"/>
-        <characteristic characteristicId="5479706523232344415441232323" name="Type" value="Heavy 1, Missile, Large Blast, Blind, Gets  Hot, One Use"/>
+        <characteristic characteristicId="5479706523232344415441232323" name="Type" value="Heavy 1, Large Blast, Blind, Gets  Hot, One Use"/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="53457110-f823-5584-7f89-40b11d1d79b3" profileTypeId="576561706f6e23232344415441232323" name="Tempest Shell" hidden="false" book="HH4: Conquest" page="247">
+    <profile id="53457110-f823-5584-7f89-40b11d1d79b3" profileTypeId="576561706f6e23232344415441232323" name="Tempest Shell" hidden="false" book="Crusade Imperialis" page="15">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="24&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="-"/>
@@ -8526,19 +8526,19 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="8db28b79-04fc-51b9-4460-12d3da62635c" profileTypeId="57617267656172204974656d23232344415441232323" name="Troop Vexilla" hidden="false" book="HH4: Conquest" page="250">
+    <profile id="8db28b79-04fc-51b9-4460-12d3da62635c" profileTypeId="57617267656172204974656d23232344415441232323" name="Troop Vexilla" hidden="false" book="Crusade Imperialis" page="18">
       <characteristics>
         <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="A unit that contains a model with a Troop Vexilla counts as scoring an additional wound for close combat results and may always attempt to regroup regardless of being below 25%"/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="86f51528-f2ce-a3eb-15d1-9396cf0548c7" profileTypeId="57617267656172204974656d23232344415441232323" name="Void Armour" hidden="false" book="HH4: Conquest" page="251">
+    <profile id="86f51528-f2ce-a3eb-15d1-9396cf0548c7" profileTypeId="57617267656172204974656d23232344415441232323" name="Void Armour" hidden="false" book="Crusade Imperialis" page="19">
       <characteristics>
         <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="Provides a 4+ save and counts as being Void Hardened in games of Zone Mortalis"/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="c05be960-68eb-7adf-6123-856b93b3e9bd" profileTypeId="576561706f6e23232344415441232323" name="Volkite Caliver" hidden="false" book="HH:LACAL" page="85">
+    <profile id="c05be960-68eb-7adf-6123-856b93b3e9bd" profileTypeId="576561706f6e23232344415441232323" name="Volkite Caliver" hidden="false" book="Crusade Imperialis" page="14">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="30&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="6"/>
@@ -8547,7 +8547,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="44d2260d-9431-a6d0-6ba3-de04b559ba5b" profileTypeId="576561706f6e23232344415441232323" name="Volkite Charger" hidden="false" book="HH:LACAL" page="85">
+    <profile id="44d2260d-9431-a6d0-6ba3-de04b559ba5b" profileTypeId="576561706f6e23232344415441232323" name="Volkite Charger" hidden="false" book="Crusade Imperialis" page="14">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="15&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="5"/>
@@ -8556,16 +8556,16 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="13bbdf99-5b72-187e-9a9b-203ff8ab08ae" profileTypeId="576561706f6e23232344415441232323" name="Volkite Culverin" hidden="false" book="HH:LACAL" page="85">
+    <profile id="13bbdf99-5b72-187e-9a9b-203ff8ab08ae" profileTypeId="576561706f6e23232344415441232323" name="Volkite Culverin" hidden="false" book="Crusade Imperialis" page="14">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="45&quot;"/>
-        <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength"/>
+        <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="6"/>
         <characteristic characteristicId="415023232344415441232323" name="AP" value="5"/>
         <characteristic characteristicId="5479706523232344415441232323" name="Type" value="Heavy 4, Deflagrate"/>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="db3c0a52-5b40-6d35-15fc-5f8c9d4f4885" profileTypeId="576561706f6e23232344415441232323" name="Volkite Demi-culverin" hidden="false" book="HH4: Conquest" page="246">
+    <profile id="db3c0a52-5b40-6d35-15fc-5f8c9d4f4885" profileTypeId="576561706f6e23232344415441232323" name="Volkite Demi-culverin" hidden="false" book="Crusade Imperialis" page="14">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="45&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="7"/>
@@ -8574,7 +8574,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="7564129d-dc84-e237-d452-211f002e1e8e" profileTypeId="576561706f6e23232344415441232323" name="Volkite Serpenta" hidden="false" book="HH:LACAL" page="85">
+    <profile id="7564129d-dc84-e237-d452-211f002e1e8e" profileTypeId="576561706f6e23232344415441232323" name="Volkite Serpenta" hidden="false" book="Crusade Imperialis" page="14">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="10&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="5"/>
@@ -8583,7 +8583,7 @@ If a Weapon Destroyed result is repaired, that weapon may be fired in the follow
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="9478-e494-e98c-10c4" profileTypeId="576561706f6e23232344415441232323" name="Vulcan Mega-bolter" hidden="false" book="HH1: Betrayal" page="274">
+    <profile id="9478-e494-e98c-10c4" profileTypeId="576561706f6e23232344415441232323" name="Vulcan Mega-bolter" hidden="false" book="Crusade Imperialis" page="23">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="60&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="6"/>
